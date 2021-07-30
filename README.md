@@ -1,3 +1,9 @@
+# Tesi triennale per l'Università di Pisa sulla blockchain EOSIO
+
+In collaborazione con la professoressa Laura Emilia Maria Ricci, la tesi si sofferma sul problema di estendere l'attuale sistema dei permessi con una feature nelle authority table, in cui ad ogni record di 'Account/Key' è associato un campo 'Attributi' che ne specifica appunto determinate proprietà customizzabili grazie ad un formato JSON che si presta bene a queste esigenze per la sua interoperabilità e versatilità.
+
+L'ambiente di sviluppo è stato forkato dalla seguente repository: https://github.com/EOSIO/eosio-web-ide
+
 # EOSIO Quickstart Web IDE for decentralized applications ![EOSIO Alpha](https://img.shields.io/badge/EOSIO-Alpha-blue.svg)
 
 [![Software License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](./LICENSE)
